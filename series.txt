@@ -1,0 +1,20 @@
+Friends,Comedy, 1994, 10, 236
+The Office,Comedy, 2005, 9, 201
+Brooklyn Nine-Nine,Comedy, 2013,  , 153 
+Parks and Recreation,Comedy, 2009, 7, 125 
+The Big Bang Theory,Comedy, 2007, 12, 279 
+Stranger Things,Science Fiction/Fantasy, 2016, 4, 25 
+Breaking Bad,Science Fiction/Fantasy, 2008, 5, 62 
+Game of Thrones,Science Fiction/Fantasy, 2011, 8, 73 
+The Mandalorian,Science Fiction/Fantasy, 2019, 2, 16
+Lost,Science Fiction/Fantasy, 2004, 6, 121 
+The Haunting of Hill House,Horror, 2018, 1, 10 
+American Horror Story,Horror, 2011, 10, 104 
+Stranger Things,Horror, 2016, 4, 25 
+The Walking Dead,Horror, 2010, 11, 177 
+The X-Files,Horror, 1993, 11, 218 
+Money Heist,Tension, 2017, 5, 70 
+Breaking Bad,Tension, 2008, 5, 62 
+Sherlock,Tension, 2010, 4, 88 
+Mindhunter,Tension, 2017, 2, 19 
+Dexter,Tension, 2006, 8, 96

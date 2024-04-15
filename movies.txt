@@ -1,0 +1,20 @@
+The Hangover,Comedy,100,2009
+Superbad,Comedy,113,2007
+Bridesmaids,Comedy,125,2011
+Anchorman: The Legend of Ron Burgundy,Comedy,94,2004
+Shaun of the Dead,Comedy,99,2004
+Inception,Science Fiction/Fantasy,148,2010
+The Matrix,Science Fiction/Fantasy,136,1999
+Interstellar,Science Fiction/Fantasy,169,2014
+Avatar,Science Fiction/Fantasy,162,2009
+Star Wars: A New Hope,Science Fiction/Fantasy,121,1977
+The Shining,Horror,146,1980
+Halloween,Horror,91,1978
+The Exorcist,Horror,122,1973
+A Nightmare on Elm Street,Horror,91,1984
+The Conjuring,Horror,112,2013
+Seven,Tension,127,1995
+Prisoners,Tension,153,2013
+No Country for Old Men,Tension,122,2007
+Gone Girl,Tension,149,2014
+The Silence of the Lambs,Tension,118,1991
